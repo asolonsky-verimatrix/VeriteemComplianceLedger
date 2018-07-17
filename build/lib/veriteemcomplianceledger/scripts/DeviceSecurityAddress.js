@@ -1,0 +1,1 @@
+var DeviceSecurityAddress = '0xf504e26691224a72d46e3c8167ee6301a0327124'

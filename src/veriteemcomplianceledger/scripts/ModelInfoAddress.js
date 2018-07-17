@@ -1,0 +1,1 @@
+var ModelInfoAddress = '0xc3ea526e6295ac85764796d8c1af2d98b55fcb21'
