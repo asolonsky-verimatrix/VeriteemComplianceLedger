@@ -20,6 +20,7 @@ Installing Veriteem Compliance Ledger is a two step process:
 pip3 install veriteemcomplianceledger
 VeriteemConfig.py
 ```
+* Click here for instructions on [installing pip3](https://github.com/VerimatrixGen1/Veriteem/wiki/Detailed-Installation-and-Troubleshooting#installing-pip3)
 
 The first time VeriteemConfig is run it will install additional programs and configure your private data.
 
