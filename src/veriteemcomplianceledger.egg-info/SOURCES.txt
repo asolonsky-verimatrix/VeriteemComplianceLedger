@@ -7,11 +7,15 @@ src/veriteemcomplianceledger.egg-info/SOURCES.txt
 src/veriteemcomplianceledger.egg-info/dependency_links.txt
 src/veriteemcomplianceledger.egg-info/top_level.txt
 src/veriteemcomplianceledger/scripts/DeviceSecurity.js
+src/veriteemcomplianceledger/scripts/DeviceSecurity.sol
 src/veriteemcomplianceledger/scripts/DeviceSecurityAddress.js
 src/veriteemcomplianceledger/scripts/LoadZigBee.js
 src/veriteemcomplianceledger/scripts/MetaData.js
+src/veriteemcomplianceledger/scripts/MetaData.sol
 src/veriteemcomplianceledger/scripts/MetaDataAddress.js
 src/veriteemcomplianceledger/scripts/ModelInfo.js
+src/veriteemcomplianceledger/scripts/ModelInfo.sol
 src/veriteemcomplianceledger/scripts/ModelInfoAddress.js
 src/veriteemcomplianceledger/scripts/ZigBeeCompliance.js
+src/veriteemcomplianceledger/scripts/ZigBeeCompliance.sol
 src/veriteemcomplianceledger/scripts/ZigBeeComplianceAddress.js
