@@ -13,7 +13,3 @@ loadScript("DeviceSecurity.js")
 var DeviceSecurityContract = web3.eth.contract(JSON.parse(DeviceSecurityOutput.contracts["DeviceSecurity.sol:DeviceSecurity"].abi));
 var DeviceSecurity = eth.contract(DeviceSecurityContract.abi).at(DeviceSecurityAddress);
 
-loadScript("MetaDataAddress.js")
-loadScript("MetaData.js")
-var MetaDataContract = web3.eth.contract(JSON.parse(MetaDataOutput.contracts["MetaData.sol:MetaData"].abi));
-var MetaData = eth.contract(MetaDataContract.abi).at(MetaDataAddress);

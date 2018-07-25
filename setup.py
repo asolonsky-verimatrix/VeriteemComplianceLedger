@@ -26,7 +26,7 @@ from setuptools.command.install import install
 
 setup(
     name="veriteemcomplianceledger",
-    version="0.1.1",
+    version="0.1.3",
     packages=find_packages('src'),
     package_dir={'':'src'},
     package_data={
@@ -35,9 +35,6 @@ setup(
     },
 
     scripts=['src/veriteemcomplianceledger/VeriteemCL.py'],
-
-
-
 
     # metadata for upload to PyPI
     author="Brad Ree",
