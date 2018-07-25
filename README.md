@@ -49,7 +49,7 @@ VeriteemConfig.py -r
 Once a Veriteem Compliance Ledger node has been installed, the user should perform the following basic checks that their node is connected to the ledger, and is in sync with the network.
 
 ## Verify BlockNumber
-* Retreive Block Number from [Veriteem Dashboard](http://www.veriteem.complianceblockchain.org/Veriteem/Dashboard)
+* Retreive Block Number from [Veriteem Dashboard](http://www.veriteem.complianceblockchain.org/Veriteem/Dashboard/NetworkMap)
 * Launch Veriteem Compliance Ledger command line interface
 ```
 VeriteemCL.py
