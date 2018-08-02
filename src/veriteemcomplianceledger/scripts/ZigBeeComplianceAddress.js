@@ -1,1 +1,1 @@
-var ZigBeeComplianceAddress = '0x35c36379113760ca94ba9b764dc7c56c668d9570'
+var ZigBeeComplianceAddress = '0xaa17a64ee70e5f2851c43a6e959c72f00145a779'

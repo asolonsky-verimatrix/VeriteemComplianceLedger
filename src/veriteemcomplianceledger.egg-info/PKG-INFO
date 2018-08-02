@@ -1,11 +1,14 @@
 Metadata-Version: 1.0
 Name: veriteemcomplianceledger
-Version: 0.1.3
+Version: 0.1.5
 Summary: Veriteem Compliance Ledger Client
 Home-page: http://www.veriteem.com/
 Author: Brad Ree
 Author-email: bree@verimatrix.com
 License: GPL
+Project-URL: Documentation, https://github.com/VerimatrixGen1/VeriteemComplianceLedger/wiki
+Project-URL: Bug Tracker, https://bugs.example.com/HelloWorld/
+Project-URL: Source Code, https://github.com/VerimatrixGen1/VeriteemComplianceLedger
 Description: UNKNOWN
 Keywords: Veriteem Compliance Ledger
 Platform: UNKNOWN
