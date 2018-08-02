@@ -5,6 +5,7 @@ src/veriteemcomplianceledger/__init__.py
 src/veriteemcomplianceledger.egg-info/PKG-INFO
 src/veriteemcomplianceledger.egg-info/SOURCES.txt
 src/veriteemcomplianceledger.egg-info/dependency_links.txt
+src/veriteemcomplianceledger.egg-info/requires.txt
 src/veriteemcomplianceledger.egg-info/top_level.txt
 src/veriteemcomplianceledger/scripts/DeviceSecurity.js
 src/veriteemcomplianceledger/scripts/DeviceSecurity.sol
