@@ -13,7 +13,7 @@ Table of contents
   <!--te-->
 
 # Installation
-Veriteem Compliance Ledger is an application which runs on top of Veriteem.  Currently, only Linux Ubuntu 16.04LTS is supported.  However, the Veriteem is deployed and accessed with Python3, and thus Windows and MacOS may be supported in the near future.
+Veriteem Compliance Ledger is an application which runs on top of Veriteem.  Currently, only **Linux Ubuntu 16.04LTS** is supported.  Ideally, Veriteem should run on a native Ubuntu instance.  However, running on a Vagrant Virtual Machine is useful for evaluations.  Vagrant install instructions can be found [here](https://github.com/VerimatrixGen1/Veriteem/wiki/Detailed-Installation-and-Troubleshooting#installing-ubunutu-using-vagrant). However, the Veriteem is deployed and accessed with Python3, and thus Windows and MacOS may be supported in the near future.  Veriteem is deployed through pip3, and then requires VeriteemConfig.py to be run to build and configure the network.
 
 Installing Veriteem Compliance Ledger is a two step process:
 ```
