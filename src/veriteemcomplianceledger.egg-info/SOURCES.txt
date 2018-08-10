@@ -17,6 +17,8 @@ src/veriteemcomplianceledger/scripts/MetaDataAddress.js
 src/veriteemcomplianceledger/scripts/ModelInfo.js
 src/veriteemcomplianceledger/scripts/ModelInfo.sol
 src/veriteemcomplianceledger/scripts/ModelInfoAddress.js
+src/veriteemcomplianceledger/scripts/SimpleStorage.js
+src/veriteemcomplianceledger/scripts/SimpleStorageAddress.js
 src/veriteemcomplianceledger/scripts/ZigBeeCompliance.js
 src/veriteemcomplianceledger/scripts/ZigBeeCompliance.sol
 src/veriteemcomplianceledger/scripts/ZigBeeComplianceAddress.js

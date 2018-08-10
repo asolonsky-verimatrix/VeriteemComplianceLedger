@@ -1,0 +1,1 @@
+var SimpleStorageAddress = '0x88c49a8bff0de8432b438fa176668a54e4ed7c5d'
