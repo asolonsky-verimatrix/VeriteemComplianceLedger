@@ -26,7 +26,7 @@ from setuptools.command.install import install
 
 setup(
     name="veriteemcomplianceledger",
-    version="0.1.10",
+    version="0.3.4",
     packages=find_packages('src'),
     package_dir={'':'src'},
     package_data={

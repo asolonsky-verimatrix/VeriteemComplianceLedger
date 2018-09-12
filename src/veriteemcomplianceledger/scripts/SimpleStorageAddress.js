@@ -1,1 +1,1 @@
-var SimpleStorageAddress = '0x88c49a8bff0de8432b438fa176668a54e4ed7c5d'
+var SimpleStorageAddress = '0xe16f256a345a38a2ee19f076d8fe42725e39f8de'

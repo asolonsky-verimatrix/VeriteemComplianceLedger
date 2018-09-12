@@ -1,1 +1,1 @@
-var ModelInfoAddress = '0xc3ea526e6295ac85764796d8c1af2d98b55fcb21'
+var ModelInfoAddress = '0xa2e334a0a4a20b5c9409a1756cd853dcc493da9f'

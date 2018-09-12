@@ -1,1 +1,1 @@
-var MetaDataAddress = '0x813dd7e87f555b58884127d375c40007d15f6114'
+var MetaDataAddress = '0xd2d37caa88010ede4980c5452383b0b0a5b0641b'

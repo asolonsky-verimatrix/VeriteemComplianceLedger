@@ -1,6 +1,9 @@
 README.md
 setup.py
+src/veriteemcomplianceledger/ContributorVerify.py
+src/veriteemcomplianceledger/ReaderVerify.py
 src/veriteemcomplianceledger/VeriteemCL.py
+src/veriteemcomplianceledger/VeriteemVerify.py
 src/veriteemcomplianceledger/__init__.py
 src/veriteemcomplianceledger.egg-info/PKG-INFO
 src/veriteemcomplianceledger.egg-info/SOURCES.txt

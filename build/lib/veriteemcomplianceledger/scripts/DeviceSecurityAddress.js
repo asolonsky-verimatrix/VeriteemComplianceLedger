@@ -1,1 +1,1 @@
-var DeviceSecurityAddress = '0xf504e26691224a72d46e3c8167ee6301a0327124'
+var DeviceSecurityAddress = '0x3e8154b4d606e9cbf8378ca8df9063cabff04d6f'
